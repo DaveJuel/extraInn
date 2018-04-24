@@ -17,11 +17,11 @@ ob_start();
 <section class="lightgrey_bg" id="features">
     <div class="container">
         <div class="main_title mt_wave a_center">
-            <h2>OUR AWESOME FEATURES</h2>
+            <h2>OUR AWESOME SERVICES</h2>
         </div>
-        <p class="main_description a_center">We make your website awesome.</p>
+        <p class="main_description a_center">We provide outstanding services.</p>
         <div class="row">
-          <?php $web->showContent("feature",2,["name","description","image"]); ?>
+          <?php $web->showContent("service",2,["title","description","image"]); ?>
         </div>
     </div>
 </section>

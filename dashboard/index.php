@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta http-equiv="refresh" content="0;url=views/login.php">
-		<title>ADDAX |Web portal </title>
+		<title>ExtraInn |Web portal </title>
 		<script language="javascript">
 			window.location.href = "views/login.php"
 		</script>
